@@ -5,7 +5,7 @@
 Windows Remote Administration Tool via Telegram (now in Python 3.7!) | Originally created by <a href="http://github.com/Ritiek">Ritiek</a>
 
 ### Why another one?
-
+[![Run on Repl.it](https://repl.it/badge/github/mvrozanti/RAT-via-Telegram)](https://repl.it/github/mvrozanti/RAT-via-Telegram)
 - The current Remote Administration Tools in the market face 2 major problems:
 
     - Lack of encryption.
